@@ -40,7 +40,6 @@ O aplicativo móvel **Campus Connect** será disponibilizado para dispositivos i
 ## Equipe
 
 > - [Taui Silva](https://github.com/tauisilva) 🐲🦄🦕🦖🐳
-> - [Johnatan Santos](https://github.com/Johnatan-Caetano) 👻🦁🦐🦜
 > - [Carla Mariana](https://github.com/TekhneDev) 🦝🦙🐍
 
-**Campus Connect** é uma ferramenta essencial para coordenadores e discentes se conectarem e compartilharem informações de forma eficiente. Esperamos que esta aplicação torne a experiência universitária mais colaborativa e produtiva! 🎓📱🌟
+**Tech Hub** é uma ferramenta essencial para coordenadores e discentes se conectarem e compartilharem informações de forma eficiente. Esperamos que esta aplicação torne a experiência universitária mais colaborativa e produtiva! 🎓📱🌟
