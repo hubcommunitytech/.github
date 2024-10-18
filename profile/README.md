@@ -14,6 +14,9 @@ A Interface web é acessada por usuários por meio de um navegador. Ela oferece 
    - Painel de vizalização do Hub;
    - Menu;
    - Hiperlinks redirecionadores.
+### Prototipação
+A interface foi desenvolvida com o auxílio do prototipador Figma.
+- [Link do prototipo ](https://www.figma.com/proto/cwSDne0oMH3ZMogxswXCMO/Home-Page-HUB?node-id=0-1&t=UK4KceGtxgsM59wG-1)
 
 ## Configuração
 
