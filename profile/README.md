@@ -1,6 +1,6 @@
 # Tech Hub
 
-**Tech Hub** é um projeto piloto e open-source de um portal completo projetado para orientar cientistas da computação ou amante de códigos em um ambiente geral universitário. Composta por dois componentes principais - Interface web e Redirecionadores - o **Tech Hub** oferece uma solução abrangente para democratizar respostas e conteúdos para a comunidade de computação.
+**Tech Hub** é um projeto piloto e open-source de um portal feito em Angular e JavaScript, projetado para orientar cientistas da computação ou amante de códigos em um ambiente geral universitário. Composta por dois componentes principais - Interface web e Redirecionadores - o **Tech Hub** oferece uma solução abrangente para democratizar respostas e conteúdos para a comunidade de computação.
 
 ## Funcionalidade Principal
 
