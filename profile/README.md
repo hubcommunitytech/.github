@@ -21,7 +21,7 @@ A interface foi desenvolvida com o auxílio do prototipador Figma.
 ## Configuração
 
 1. Clone repositórios;
-2. Configure ...;
+2. Configure sua versão do Angular CLI para a 18 e coloque comando "ng serve" no terminarl para rodar o projeto;
 3. Inicie a Interface web.
 
 ## Time Dev Fundadores
